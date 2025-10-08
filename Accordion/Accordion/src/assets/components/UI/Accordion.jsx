@@ -1,4 +1,4 @@
-import faq from "../../api/faq.json";
+import faq from "../../../api/faq.json";
 import { useEffect, useState } from "react";
 import { FAQ } from "../Layout/FAQ";
 
